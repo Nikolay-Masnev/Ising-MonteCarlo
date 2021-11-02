@@ -1,0 +1,5 @@
+512		! Side of the Lattice
+1000000000	! Number of sweeps
+0.1		! Min J/T
+10		! Max J/T
+0.1		! Step
